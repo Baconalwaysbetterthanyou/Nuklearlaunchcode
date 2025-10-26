@@ -1,0 +1,30 @@
+{
+  "name": "w35-activity-03-multi-api",
+  "version": "1.0.0",
+  "description": "Multi-API Dashboard - Integrate superhero, NASA, GIPHY, and movie APIs!",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "test": "echo 'Open http://localhost:8000 in your browser'"
+  },
+  "keywords": [
+    "api",
+    "multi-api",
+    "dashboard",
+    "superhero",
+    "nasa",
+    "giphy",
+    "tmdb",
+    "authentication",
+    "javascript",
+    "education"
+  ],
+  "author": "W3.5 API Integration Course",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "stackblitz": {
+    "startCommand": "echo 'Configure your API keys and start exploring!'"
+  }
+}
